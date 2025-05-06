@@ -10,3 +10,7 @@
 ## Pre-requists
 - math.h
 - string.h
+
+## Compilation Errors in :
+- animate_text_aimante.c
+- animate_text_morceau_en_mot.c
