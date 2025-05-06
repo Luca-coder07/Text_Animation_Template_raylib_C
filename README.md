@@ -10,6 +10,7 @@
 ## Pre-requists
 - math.h
 - string.h
+- Raylib (a framework for Game Development in C)
 
 ## Compilation Errors in :
 - animate_text_aimante.c
